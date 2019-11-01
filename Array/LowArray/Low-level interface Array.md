@@ -1,2 +1,1 @@
-lowArray.java
-// demonstrates array class with low-level interface
+LowArray - demonstrates array class with low-level interface
